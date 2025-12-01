@@ -1,6 +1,6 @@
 ### Olá eu sou o Brendon 👋
 
-![Brendon GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonra&show_icons=true&theme=dracula)
+![Brendon GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonra&show_icons=true&theme=shadow_red)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brendon27xy/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendon-rabelo-836405228/)
