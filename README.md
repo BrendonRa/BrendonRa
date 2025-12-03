@@ -1,7 +1,5 @@
 ### Olá eu sou o Brendon 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonra&show_icons=true&theme=radical)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brendon27xy/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendon-rabelo-836405228/)
 
@@ -22,3 +20,4 @@
 Estudante do Ensino médio com curso técnico de Programação de jogos digitais e Desenvolvimento de Sistemas na Etec.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendonra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
