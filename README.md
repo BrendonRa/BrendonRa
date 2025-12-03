@@ -18,5 +18,3 @@
 <br/>
 
 Estudante do Ensino médio com curso técnico de Programação de jogos digitais e Desenvolvimento de Sistemas na Etec.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendonra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
