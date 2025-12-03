@@ -1,5 +1,7 @@
 ### Olá eu sou o Brendon 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Brendon+Rabelo;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brendon27xy/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendon-rabelo-836405228/)
 
@@ -20,4 +22,3 @@
 Estudante do Ensino médio com curso técnico de Programação de jogos digitais e Desenvolvimento de Sistemas na Etec.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendonra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
