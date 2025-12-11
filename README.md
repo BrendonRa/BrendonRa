@@ -17,4 +17,4 @@
 </div>
 <br/>
 
-Profissional da área de progrmação com conhecimentos adiquiridos através do curso técnico de Programação de jogos digitais, Desenvolvimento de Sistemas na Etec, Python no Senai, e muitos outros conhecimento adiquiridos de maneira autônoma.
+Profissional da área de programação com conhecimentos adiquiridos através do curso técnico de Programação de jogos digitais, Desenvolvimento de Sistemas na Etec, Python no Senai, e muitos outros conhecimento adiquiridos de maneira autônoma.
