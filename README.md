@@ -17,4 +17,4 @@
 </div>
 <br/>
 
-Estudante do Ensino médio com curso técnico de Programação de jogos digitais e Desenvolvimento de Sistemas na Etec.
+Profissional da área de progrmação com conhecimentos adiquiridos através do curso técnico de Programação de jogos digitais, Desenvolvimento de Sistemas na Etec, Python no Senai, e muitos outros conhecimento adiquiridos de maneira autônoma.
